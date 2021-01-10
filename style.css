@@ -5,14 +5,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Titillium+Web:wght@600&display=swap');
 
 :root{
-    --primary-color1 : 
-    --primary-color2 :
-    --primary-color3 :
-    --primary-color4 :
+    --primary-color1 : #40E0D0;
+    --primary-color2 :#FF8C00;
+    --primary-color3 : #FF0080;
+    --main-gradient  : linear-gradient(90deg, var(--primary-color1), var(--primary-color2),var(--primary-color3));
+
 }
 
 /* designing */
 
 body{
-    font-family: "Titillium Web", "Open Sans";
+    font-family: Titillium Web, "Open Sans";
+    /* background-image: var(--main-gradient) */
+    margin: 0px;
+
 }

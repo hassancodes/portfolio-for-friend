@@ -1,0 +1,18 @@
+/* getting started with design */
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Titillium+Web:wght@600&display=swap');
+
+:root{
+    --primary-color1 : 
+    --primary-color2 :
+    --primary-color3 :
+    --primary-color4 :
+}
+
+/* designing */
+
+body{
+    font-family: "Titillium Web", "Open Sans";
+}

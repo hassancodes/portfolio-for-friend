@@ -14,25 +14,35 @@
 
 /* designing */
 
+
+*{
+/* resetting all elements before designing */    
+    margin: 0;
+}
 body{
     font-family: Titillium Web, "Open Sans";
     /* background-image: var(--main-gradient) */
-    margin: 0px;
+    margin:0px;
+    margin-top: 0px;
 }
 
 .navbar{
     background: grey;
-    margin: 0px;
-
+    margin-top: 0px;
+    padding:0px;
 }
+
+.un-list{
+    text-align:center;
+}
+
+.main-logo{
+    display:inline;
+    }
+
+
 .nav-list{
     list-style: none;
     display:inline;
     margin :  1rem;
-
 }
-.main-logo{
-display:inline;
-}
-
-

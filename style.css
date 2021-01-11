@@ -18,5 +18,21 @@ body{
     font-family: Titillium Web, "Open Sans";
     /* background-image: var(--main-gradient) */
     margin: 0px;
+}
+
+.navbar{
+    background: grey;
+    margin: 0px;
 
 }
+.nav-list{
+    list-style: none;
+    display:inline;
+    margin :  1rem;
+
+}
+.main-logo{
+display:inline;
+}
+
+

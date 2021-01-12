@@ -46,3 +46,12 @@ body{
     display:inline;
     margin :  1rem;
 }
+
+/* main image */
+
+.main-image{
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+
+}

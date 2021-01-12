@@ -34,10 +34,15 @@ body{
 
 .un-list{
     text-align:center;
+
 }
 
 .main-logo{
     display:inline;
+    /* color:yellow; */
+    position: relative;
+    right: 100px;
+    
     }
 
 
@@ -45,6 +50,8 @@ body{
     list-style: none;
     display:inline;
     margin :  1rem;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
 }
 
 /* main image */

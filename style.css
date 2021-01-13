@@ -62,4 +62,15 @@ body{
         height: auto;
         position: absolute;
         z-index: -1;
+        text-align:center;
+
         }
+.main-image--text{
+  position: relative;
+  top:120px;
+}
+
+
+.txcl{
+color : white;
+}

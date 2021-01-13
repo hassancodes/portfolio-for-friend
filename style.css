@@ -74,3 +74,18 @@ body{
 .txcl{
 color : white;
 }
+
+.txalh1{
+    position: relative;
+}
+
+txalp{
+    position: relative;
+    top:150px;
+}
+
+.btn{
+position:relative;
+left: 46%;
+top: 2rem;
+}

@@ -77,15 +77,36 @@ color : white;
 
 .txalh1{
     position: relative;
+    font-size: 4rem;
 }
 
 txalp{
-    position: relative;
-    top:150px;
+
+    /* position: relative;
+    top:150px; */
+   
+    
 }
+.main-image--text p{
+color: yellow;
+font-size: 1.2rem;
+}
+
 
 .btn{
 position:relative;
 left: 46%;
-top: 2rem;
+top:4rem;
+/* padding: 0.5rem,0.5rem,0.7rem,0.7rem; */
+padding-top:1rem;
+padding-bottom:1rem;
+padding-left:2rem;
+padding-right:2rem;
+border-radius: 0.7rem;
+border:none;
+background-color: rgb(236, 60, 60);
+color:white;
+font-size: 1rem;
+
+
 }

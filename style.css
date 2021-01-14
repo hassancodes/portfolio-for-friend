@@ -17,7 +17,7 @@
 
 *{
 /* resetting all elements before designing */    
-    margin: 0;
+    margin:0;
 }
 body{
     font-family: Titillium Web, "Open Sans";
@@ -75,12 +75,12 @@ body{
 color : white;
 }
 
-.txalh1{
+div .txalh1{
     position: relative;
     font-size: 4rem;
 }
 
-txalp{
+div .txalp{
 
     /* position: relative;
     top:150px; */
@@ -108,5 +108,14 @@ background-color: rgb(236, 60, 60);
 color:white;
 font-size: 1rem;
 
+}
 
+.img-sec{
+    position:relative;
+    top:300px;
+
+}
+
+.img-sec img{
+    width: 400px;
 }

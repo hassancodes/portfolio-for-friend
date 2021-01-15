@@ -60,13 +60,11 @@ body{
         max-width: 100%;
         width: 100%;
         height: auto;
-        position: absolute;
-        z-index: -1;
         text-align:center;
 
         }
 .main-image--text{
-  position: relative;
+  position: absolute;
   top:120px;
 }
 
@@ -93,15 +91,15 @@ font-size: 1.2rem;
 }
 
 
-.btn{
+.main-image--text .btn{
 position:relative;
 left: 46%;
 top:4rem;
-/* padding: 0.5rem,0.5rem,0.7rem,0.7rem; */
-padding-top:1rem;
+padding: 1rem,2rem,1rem,2rem;
+/* padding-top:1rem;
 padding-bottom:1rem;
 padding-left:2rem;
-padding-right:2rem;
+padding-right:2rem; */
 border-radius: 0.7rem;
 border:none;
 background-color: rgb(236, 60, 60);

@@ -56,64 +56,10 @@ body{
 
 /* main image */
 
-.main-image{
+div img{
         max-width: 100%;
         width: 100%;
         height: auto;
         text-align:center;
-
-        }
-.main-image--text{
-  position: absolute;
-  top:120px;
 }
 
-
-.txcl{
-color : white;
-}
-
-div .txalh1{
-    position: relative;
-    font-size: 4rem;
-}
-
-div .txalp{
-
-    /* position: relative;
-    top:150px; */
-   
-    
-}
-.main-image--text p{
-color: yellow;
-font-size: 1.2rem;
-}
-
-
-.main-image--text .btn{
-position:relative;
-left: 46%;
-top:4rem;
-padding: 1rem,2rem,1rem,2rem;
-/* padding-top:1rem;
-padding-bottom:1rem;
-padding-left:2rem;
-padding-right:2rem; */
-border-radius: 0.7rem;
-border:none;
-background-color: rgb(236, 60, 60);
-color:white;
-font-size: 1rem;
-
-}
-
-.img-sec{
-    position:relative;
-    top:300px;
-
-}
-
-.img-sec img{
-    width: 400px;
-}

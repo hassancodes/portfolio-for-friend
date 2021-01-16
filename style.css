@@ -20,16 +20,20 @@
     margin:0;
 }
 body{
-    font-family: Titillium Web, "Open Sans";
+    font-family: "Titillium Web", "Open Sans";
     /* background-image: var(--main-gradient) */
     margin:0px;
     margin-top: 0px;
 }
 
 .navbar{
-    background: grey;
-    margin-top: 0px;
-    padding:0px;
+    /* margin-top: 0px;
+    padding:0px; */
+
+    /* background: grey; */
+    animation-name: "backgroundanim";
+    animation-duration: infinite;
+
 }
 
 .un-list{
@@ -62,4 +66,3 @@ div img{
         height: auto;
         text-align:center;
 }
-

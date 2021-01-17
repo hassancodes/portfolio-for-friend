@@ -26,15 +26,6 @@ body{
     margin-top: 0px;
 }
 
-.navbar{
-    /* margin-top: 0px;
-    padding:0px; */
-
-    /* background: grey; */
-    animation-name: "backgroundanim";
-    animation-duration: infinite;
-
-}
 
 .un-list{
     text-align:center;
